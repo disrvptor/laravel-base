@@ -1,6 +1,6 @@
 # Laravel Base Image
 
-The Laravel base image provides a base image for development of a [Laravel](https://laravel.com/) or [Lumen](https://lumen.laravel.com/) application. The base image is the latest (7.2.2) FPM version of [PHP](https://hub.docker.com/_/php/) with the following extensions added.
+The Laravel base image provides a base image for development of a [Laravel](https://laravel.com/) or [Lumen](https://lumen.laravel.com/) application. The base image is the latest (7.3.2) FPM version of [PHP](https://hub.docker.com/_/php/) with the following extensions added.
 
 * zip
 * pdo_mysql
